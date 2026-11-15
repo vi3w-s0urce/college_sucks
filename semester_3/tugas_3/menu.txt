@@ -1,0 +1,8 @@
+Makanan|Nasi Padang|25000.0|Nasi
+Makanan|Ayam Bakar|30000.0|Lauk
+Minuman|Es Teh|5000.0|Dingin
+Minuman|Kopi Susu|15000.0|Hangat
+Diskon|Promo Hemat 10|0.0|10.0
+Makanan|Ayam Geprek|10000.0|Ayam
+Minuman|Teh Sosro|5000.0|Dingin
+Diskon|Diskon minuman|0.0|10.0

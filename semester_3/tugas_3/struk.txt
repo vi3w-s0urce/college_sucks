@@ -1,0 +1,18 @@
+=== STRUK RESTORAN ===
+1. Nasi Padang | Rp 25.000,00
+2. Nasi Padang | Rp 25.000,00
+3. Nasi Padang | Rp 25.000,00
+4. Teh Sosro | Rp 5.000,00
+5. Teh Sosro | Rp 5.000,00
+6. Teh Sosro | Rp 5.000,00
+7. Teh Sosro | Rp 5.000,00
+8. Teh Sosro | Rp 5.000,00
+9. Teh Sosro | Rp 5.000,00
+10. Teh Sosro | Rp 5.000,00
+11. Teh Sosro | Rp 5.000,00
+12. Teh Sosro | Rp 5.000,00
+13. Teh Sosro | Rp 5.000,00
+Subtotal: Rp 125.000,00
+Promo: Diskon minuman
+Potongan: Rp 12.500,00
+TOTAL BAYAR: Rp 112.500,00
